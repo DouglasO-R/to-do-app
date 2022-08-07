@@ -1,0 +1,25 @@
+.tasks__list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.tasks__list__empty {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.tasks__list__empty p {
+    color: var(--gray-300);
+}
+
+
+.tasks__list__empty p:first-of-type {
+    font-weight: bold;  
+    margin-top: 1rem;
+  
+}
+
