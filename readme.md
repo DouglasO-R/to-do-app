@@ -51,7 +51,7 @@ Apesar de serem poucas funcionalidades, você vai precisar relembrar conceitos c
 - Propriedades
 - Consonantização
 
-Para rodar clone o repositório  `git clone https://github.com/DouglasO-R/todo-list.git`, acesse a pasta do web `cd todo-list`, instale as dependências `yarn`, e rode o app com `yarn dev` 
+Para rodar clone o repositório  `git clone git@github.com:DouglasO-R/to-do-app.git`, acesse a pasta do web `cd todo-list`, instale as dependências `yarn`, e rode o app com `yarn dev` 
 
 ## 🔖 Layout
 
